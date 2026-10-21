@@ -1,0 +1,39 @@
+{
+ "seen": {
+  "deloitte_junior-cybersecurity-analyst-(ot/iot)": {
+   "company": "Deloitte",
+   "title": "Junior Cybersecurity Analyst (OT/IoT)",
+   "url": "https://jobs.example.com/view/1000001"
+  },
+  "neverhack-estonia_penetration-tester-/-red-teamer": {
+   "company": "Neverhack Estonia",
+   "title": "Penetration Tester / Red Teamer",
+   "url": "https://jobs.example.com/view/1000002"
+  },
+  "deloitte_cyber-intelligence-center-security-analy": {
+   "company": "Deloitte",
+   "title": "Cyber Intelligence Center Security Analyst at",
+   "url": "https://jobs.example.com/view/1000003"
+  },
+  "deloitte_cyber-intelligence-center-security-analyst-at": {
+   "company": "Deloitte",
+   "title": "Cyber Intelligence Center Security Analyst at",
+   "url": "https://jobs.example.com/view/1000003/"
+  },
+  "acme-corp_soc-analyst-l2_copenhagen": {
+   "company": "Acme Corp",
+   "title": "SOC Analyst (L2)",
+   "url": "https://boards.example.io/acme/jobs/1"
+  },
+  "rsted_data-engineer": {
+   "company": "Ørsted",
+   "title": "Data Engineer",
+   "url": "https://x.example/9"
+  },
+  "securion_": {
+   "company": "Securion",
+   "title": "Программист 1С",
+   "url": ""
+  }
+ }
+}
